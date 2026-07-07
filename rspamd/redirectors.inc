@@ -921,7 +921,6 @@ ta.gd
 ta.gg
 tagiturl.com
 taourl.com
-tbank.ru
 tbd.ly
 tcrn.ch
 techto.us
@@ -1151,7 +1150,6 @@ wuw.su
 ww.tl
 www.clickmeeting.com
 www.grandstreamnetworks.ru
-www.reg.ru
 www.shorturl.at
 wz.ae
 x-url.com
